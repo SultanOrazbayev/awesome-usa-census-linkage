@@ -10,3 +10,4 @@ The table below lists some of the publicly available links across complete count
 | CLP        | Automated links between each pair of Census waves.                           | 1850-1940 | [Link](https://censuslinkingproject.org/data/)             |
 | CT         | Links based on manually-created 'ground truth'.                              | 1900-1920 | [Link](https://www.openicpsr.org/openicpsr/project/144904) |
 | MLP        | The links created by the IPUMS team for adjacent censuses from 1900 to 1940. | 1900-1940 | [Link](https://usa.ipums.org/usa/mlp.shtml)                |
+| LIFE-M     | Links via birth/death/marriage certificates                                  | 1880-1940 | [Link](https://life-m.org/data/)
